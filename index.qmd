@@ -1,11 +1,11 @@
 ---
-title: "JuanPBT"
+title: "Juan Pablo Benavides"
 ---
 
-This is a Quarto website.
+# About me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am currently a PhD student at the University of Exerter, working in the Geography Deparment in Lucy Rowland's and Fernanda de Vaconsellos Barros's group.
 
-```{r}
-1 + 1
-```
+![](features/images/JuanP_EdenProject.jpeg){fig-alt="Photo of Juan in Eden Project" fig-align="left" width="5cm"}
+
+Website develop on [Quarto](https://quarto.org/docs/websites){.uri}.
