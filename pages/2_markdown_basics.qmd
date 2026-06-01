@@ -6,12 +6,12 @@ title: "Exercise 2. Markdown basics"
 
 ## Section One
 
-### A smaller section
-
----
-
+------------------------------------------------------------------------
 
 hihih
 
-***
+------------------------------------------------------------------------
 
+### A smaller section
+
+#### Bullet points
