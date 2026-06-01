@@ -1,3 +1,17 @@
 ---
 title: "Exercise 2. Markdown basics"
 ---
+
+# My Markdown page
+
+## Section One
+
+### A smaller section
+
+---
+
+
+hihih
+
+***
+
