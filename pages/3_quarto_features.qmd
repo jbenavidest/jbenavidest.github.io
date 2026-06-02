@@ -1,3 +1,0 @@
----
-title: "Exercise 3. Quarto features"
----

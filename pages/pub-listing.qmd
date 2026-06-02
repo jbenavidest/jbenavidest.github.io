@@ -1,0 +1,34 @@
+---
+title: "Publications"
+description-meta: "Information, PDFs, and social metrics of papers"
+title-block-banner: false
+listing:
+  - id: selected-work
+    contents:
+      - text: "Placeholder — add your selected publications here"
+    type: table
+    page-size: 100
+    categories: numbered
+    fields: [title, author, year, journal]
+    include:
+      section: "Selected Work"
+  - id: peer-reviewed
+    contents:
+      - text: "Placeholder — add your peer-reviewed publications here"
+    type: table
+    page-size: 100
+    categories: numbered
+    fields: [title, author, year, journal]
+    include:
+      section: "Peer-reviewed Journal Paper"
+---
+
+Note: \* corresponding author
+
+## Selected Work
+::: {#selected-work}
+:::
+
+## Peer-reviewed Journal Papers
+::: {#peer-reviewed}
+:::
