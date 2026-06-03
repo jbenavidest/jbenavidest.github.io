@@ -22,7 +22,7 @@ about:
     #   target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:juanpab.bentoc@gmail.com
+      href: mailto:J.P.Benavides-Tocarruncho@exeter.ac.uk
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/juan-pablo-b-2422691b5/
