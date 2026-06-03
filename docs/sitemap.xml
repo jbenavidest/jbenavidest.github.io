@@ -1,55 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jbenavidest.github.io/posts/post1.html</loc>
-    <lastmod>2026-06-03T15:48:19.350Z</lastmod>
+    <loc>https://jbenavidest.github.io/posts/paper-title/index.html</loc>
+    <lastmod>2026-06-03T15:48:19.347Z</lastmod>
   </url>
   <url>
-    <loc>https://jbenavidest.github.io/posts/news-title/index.html</loc>
-    <lastmod>2026-06-03T15:48:19.326Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jbenavidest.github.io/pages/SciComm.html</loc>
-    <lastmod>2026-06-03T17:21:26.546Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jbenavidest.github.io/pages/pub-listing.html</loc>
-    <lastmod>2026-06-03T15:48:19.307Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jbenavidest.github.io/pages/posts.html</loc>
-    <lastmod>2026-06-03T15:48:19.304Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jbenavidest.github.io/pages/contact.html</loc>
-    <lastmod>2026-06-03T16:38:09.224Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jbenavidest.github.io/index.html</loc>
-    <lastmod>2026-06-03T17:14:22.007Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jbenavidest.github.io/pages/404.html</loc>
-    <lastmod>2026-06-03T15:48:19.301Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jbenavidest.github.io/pages/people.html</loc>
-    <lastmod>2026-06-03T15:48:19.303Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jbenavidest.github.io/pages/projects.html</loc>
-    <lastmod>2026-06-03T15:48:19.305Z</lastmod>
+    <loc>https://jbenavidest.github.io/posts/202503-scoutCerrado/index.html</loc>
+    <lastmod>2026-06-03T18:25:18.766Z</lastmod>
   </url>
   <url>
     <loc>https://jbenavidest.github.io/pages/publications.html</loc>
     <lastmod>2026-06-03T17:15:12.926Z</lastmod>
   </url>
   <url>
-    <loc>https://jbenavidest.github.io/posts/event-title/index.html</loc>
-    <lastmod>2026-06-03T17:19:42.907Z</lastmod>
+    <loc>https://jbenavidest.github.io/pages/projects.html</loc>
+    <lastmod>2026-06-03T15:48:19.305Z</lastmod>
   </url>
   <url>
-    <loc>https://jbenavidest.github.io/posts/paper-title/index.html</loc>
-    <lastmod>2026-06-03T15:48:19.347Z</lastmod>
+    <loc>https://jbenavidest.github.io/pages/people.html</loc>
+    <lastmod>2026-06-03T15:48:19.303Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jbenavidest.github.io/pages/404.html</loc>
+    <lastmod>2026-06-03T15:48:19.301Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jbenavidest.github.io/index.html</loc>
+    <lastmod>2026-06-03T18:10:04.851Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jbenavidest.github.io/pages/contact.html</loc>
+    <lastmod>2026-06-03T18:10:04.884Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jbenavidest.github.io/pages/posts.html</loc>
+    <lastmod>2026-06-03T18:24:27.798Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jbenavidest.github.io/pages/pub-listing.html</loc>
+    <lastmod>2026-06-03T15:48:19.307Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jbenavidest.github.io/pages/SciComm.html</loc>
+    <lastmod>2026-06-03T17:21:26.546Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jbenavidest.github.io/posts/202601-Gw4ThematicMeeting/index.html</loc>
+    <lastmod>2026-06-03T18:26:19.984Z</lastmod>
   </url>
 </urlset>

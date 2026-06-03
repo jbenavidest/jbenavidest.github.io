@@ -1,94 +1,38 @@
 [
   {
-    "objectID": "posts/post1.html",
-    "href": "posts/post1.html",
-    "title": "post1",
-    "section": "",
-    "text": "this is a post test"
+    "objectID": "posts/paper-title/index.html#abstract",
+    "href": "posts/paper-title/index.html#abstract",
+    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "section": "Abstract",
+    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
   },
   {
-    "objectID": "posts/news-title/index.html",
-    "href": "posts/news-title/index.html",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
+    "objectID": "posts/paper-title/index.html#links",
+    "href": "posts/paper-title/index.html#links",
+    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "section": "Links",
+    "text": "Links\nPublished paper"
   },
   {
-    "objectID": "posts/news-title/index.html#summary",
-    "href": "posts/news-title/index.html#summary",
-    "title": "News item",
+    "objectID": "posts/202503-scoutCerrado/index.html",
+    "href": "posts/202503-scoutCerrado/index.html",
+    "title": "Scout visit in the Cerrado",
     "section": "",
-    "text": "About the news"
+    "text": "I visit the Cerrado for the first time on March 2025 and this helped to narrow the ideas about my PhD. project"
   },
   {
-    "objectID": "pages/SciComm.html",
-    "href": "pages/SciComm.html",
-    "title": "Science communication",
-    "section": "",
-    "text": "Inforgraphies\nCome back another time for another post!"
-  },
-  {
-    "objectID": "pages/pub-listing.html",
-    "href": "pages/pub-listing.html",
+    "objectID": "pages/publications.html",
+    "href": "pages/publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Note: * corresponding author"
+    "text": "ORCID  Google Scholar  Research Gate\n\n\n\n\n\n\n\n\n\n\n\nGraphic abstract\n\n\nBenavides-Tocarruncho JP, Paz H, Rodríguez N, Arrieta R, Pizano C, Salgado-Negret B. Belowground differentiation among trees in a degraded tropical dry forest landscape: no evidence of a collaboration gradient.. Journal of Tropical Ecology. 2024;40:e15. doi:10.1017/S0266467424000129"
   },
   {
-    "objectID": "pages/pub-listing.html#selected-work",
-    "href": "pages/pub-listing.html#selected-work",
-    "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\n\n\n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nAuthor\n\n\nyear\n\n\njournal\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "pages/pub-listing.html#peer-reviewed-journal-papers",
-    "href": "pages/pub-listing.html#peer-reviewed-journal-papers",
-    "title": "Publications",
-    "section": "Peer-reviewed Journal Papers",
-    "text": "Peer-reviewed Journal Papers\n\n\n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nAuthor\n\n\nyear\n\n\njournal\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "pages/posts.html",
-    "href": "pages/posts.html",
-    "title": "What’s New & Updated",
+    "objectID": "pages/projects.html",
+    "href": "pages/projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Category\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "pages/contact.html",
-    "href": "pages/contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Quarto Academic\nGeography Department\nFaculty of Environment Science and Economy\nUniversity of Exeter Laver Building, North Park Road, Exeter, UK, EX4 4QE\nE-mail: J.P.Benavides-Tocarruncho at exeter dot ac dot uk"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About me",
-    "section": "",
-    "text": "E-mail\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \nI’m a [Juan Pablo Benavides], plant ecologist. Pasionate about ways to understand plant functions in tropical ecosystems. Working in root and hydraulic traits across tropical dry forest and savannas.\n\n\n\nUndergraduate Researcher, National Univerisity of Colombia\nPhD Researcher, Univerisity of Exeter"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "About me",
-    "section": "",
-    "text": "Undergraduate Researcher, National Univerisity of Colombia\nPhD Researcher, Univerisity of Exeter"
-  },
-  {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "About me",
-    "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\npost1\n\n\n\n\n\n\n\n\n\n\n\n\n\nScout visit in the Cerrado\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nAll Posts »"
-  },
-  {
-    "objectID": "pages/404.html",
-    "href": "pages/404.html",
-    "title": "Page Unplugged",
-    "section": "",
-    "text": "The page you requested cannot be found (perhaps it was unplugged).\nYou may want to try searching to find the page’s new plug."
+    "text": "Title\n\n\nTeam\n\n\nFunder\n\n\nDescription\n\n\nFunding\n\n\nStart\n\n\nEnd\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "pages/people.html",
@@ -112,38 +56,87 @@
     "text": "Alumni\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\nName\n\n\nRole\n\n\nStarted\n\n\nEnded\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "pages/projects.html",
-    "href": "pages/projects.html",
-    "title": "Projects",
+    "objectID": "pages/404.html",
+    "href": "pages/404.html",
+    "title": "Page Unplugged",
     "section": "",
-    "text": "Title\n\n\nTeam\n\n\nFunder\n\n\nDescription\n\n\nFunding\n\n\nStart\n\n\nEnd\n\n\n\n\n\n\n\nNo matching items"
+    "text": "The page you requested cannot be found (perhaps it was unplugged).\nYou may want to try searching to find the page’s new plug."
   },
   {
-    "objectID": "pages/publications.html",
-    "href": "pages/publications.html",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About me",
+    "section": "",
+    "text": "E-mail\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \nI’m a [Juan Pablo Benavides], plant ecologist. Pasionate about ways to understand plant functions in tropical ecosystems. Working in root and hydraulic traits across tropical dry forest and savannas.\n\n\n\nUndergraduate Researcher, National Univerisity of Colombia\nPhD Researcher, Univerisity of Exeter"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About me",
+    "section": "",
+    "text": "Undergraduate Researcher, National Univerisity of Colombia\nPhD Researcher, Univerisity of Exeter"
+  },
+  {
+    "objectID": "index.html#recent-posts",
+    "href": "index.html#recent-posts",
+    "title": "About me",
+    "section": "Recent Posts",
+    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nGW4+ Thematic meeting: Climate change and Hazards - University of Bristol\n\n\n\nJan 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGW4+ Thematic meeting: Climate change and Hazards - University of Bristol\n\n\n\nJan 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScout visit in the Cerrado\n\n\n\nMar 4, 2025\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nAll Posts »"
+  },
+  {
+    "objectID": "pages/contact.html",
+    "href": "pages/contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Geography Department Faculty of Environment Science and Economy University of Exeter Laver Building, North Park Road, Exeter, UK, EX4 4QE\nE-mail: J.P.Benavides-Tocarruncho at exeter dot ac dot uk"
+  },
+  {
+    "objectID": "pages/posts.html",
+    "href": "pages/posts.html",
+    "title": "What’s New & Updated",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "pages/pub-listing.html",
+    "href": "pages/pub-listing.html",
     "title": "Publications",
     "section": "",
-    "text": "ORCID  Google Scholar  Research Gate\n\n\n\n\n\n\n\n\n\n\n\nGraphic abstract\n\n\nBenavides-Tocarruncho JP, Paz H, Rodríguez N, Arrieta R, Pizano C, Salgado-Negret B. Belowground differentiation among trees in a degraded tropical dry forest landscape: no evidence of a collaboration gradient.. Journal of Tropical Ecology. 2024;40:e15. doi:10.1017/S0266467424000129"
+    "text": "Note: * corresponding author"
   },
   {
-    "objectID": "posts/event-title/index.html",
-    "href": "posts/event-title/index.html",
-    "title": "Scout visit in the Cerrado",
+    "objectID": "pages/pub-listing.html#selected-work",
+    "href": "pages/pub-listing.html#selected-work",
+    "title": "Publications",
+    "section": "Selected Work",
+    "text": "Selected Work\n\n\n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nAuthor\n\n\nyear\n\n\njournal\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pages/pub-listing.html#peer-reviewed-journal-papers",
+    "href": "pages/pub-listing.html#peer-reviewed-journal-papers",
+    "title": "Publications",
+    "section": "Peer-reviewed Journal Papers",
+    "text": "Peer-reviewed Journal Papers\n\n\n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nAuthor\n\n\nyear\n\n\njournal\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pages/SciComm.html",
+    "href": "pages/SciComm.html",
+    "title": "Science communication",
     "section": "",
-    "text": "I visit the Cerrado for the first time on March 2025 and this helped to narrow the ideas about my PhD. project"
+    "text": "Inforgraphies\nCome back another time for another post!"
   },
   {
-    "objectID": "posts/paper-title/index.html#abstract",
-    "href": "posts/paper-title/index.html#abstract",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Abstract",
-    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
+    "objectID": "posts/202601-Gw4ThematicMeeting/index.html",
+    "href": "posts/202601-Gw4ThematicMeeting/index.html",
+    "title": "GW4+ Thematic meeting: Climate change and Hazards - University of Bristol",
+    "section": "",
+    "text": "I presented a poster about the preliminary results of my fire experiment in Chapada dos Veadeiros in Brasil"
   },
   {
-    "objectID": "posts/paper-title/index.html#links",
-    "href": "posts/paper-title/index.html#links",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Links",
-    "text": "Links\nPublished paper"
+    "objectID": "posts/202601-Gw4ThematicMeeting/index.html#summary",
+    "href": "posts/202601-Gw4ThematicMeeting/index.html#summary",
+    "title": "GW4+ Thematic meeting: Climate change and Hazards - University of Bristol",
+    "section": "",
+    "text": "I presented a poster about the preliminary results of my fire experiment in Chapada dos Veadeiros in Brasil"
   }
 ]

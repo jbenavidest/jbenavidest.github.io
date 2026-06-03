@@ -4,12 +4,12 @@ description: "First exploratory trip to Chapada dos Veadeiros, Goias, Brasil"
 author: "Juan PBT"
 date: "2025-03-04"
 categories: [event, presentation]
-image: "/post/202503-scoutCerrado/Cerrado_March2025.JPG"
+image: "/posts/202503-scoutCerrado/Cerrado_March2025.JPG"
 #css: /custom.css
 #draft: true
 ---
 
-![](/202503-scoutCerrado/Cerrado_March2025.JPG)
+![](/posts/202503-scoutCerrado/Cerrado_March2025.JPG)
 
 I visit the Cerrado for the first time on March 2025 and this helped to narrow the ideas about my PhD. project
 

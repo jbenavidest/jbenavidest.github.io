@@ -4,15 +4,16 @@ description: "I presented the preliminar results of my project"
 author: "News"
 date: "2026-01-28"
 categories: [news]
-image: "/post/202601-Gw4ThematicMeeting/Juan_gw4Jan2026.JPG"
+image: "/posts/202601-Gw4ThematicMeeting/Juan_gw4Jan2026.JPG"
 #css: /custom.css
 #draft: true
 ---
 
-
 ## Summary
 
 I presented a poster about the preliminary results of my fire experiment in Chapada dos Veadeiros in Brasil
+
+![](Juan_gw4Jan2026.jpg){width="334"}
 
 <!--Include social share buttons-->
 
