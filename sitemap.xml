@@ -1,27 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pythonhealthdatascience.github.io/quarto-template/pages/1_making_a_change.html</loc>
-    <lastmod>2026-05-22T14:13:07.774Z</lastmod>
+    <loc>https://jbenavidest.github.io/posts/news-title/index.html</loc>
+    <lastmod>2026-06-03T16:07:46.982Z</lastmod>
   </url>
   <url>
-    <loc>https://pythonhealthdatascience.github.io/quarto-template/pages/5_inline_html.html</loc>
-    <lastmod>2026-05-22T14:13:07.775Z</lastmod>
+    <loc>https://jbenavidest.github.io/posts/paper-title/index.html</loc>
+    <lastmod>2026-06-03T16:07:46.987Z</lastmod>
   </url>
   <url>
-    <loc>https://pythonhealthdatascience.github.io/quarto-template/pages/4_images_videos_documents.html</loc>
-    <lastmod>2026-05-22T14:13:07.775Z</lastmod>
+    <loc>https://jbenavidest.github.io/index.html</loc>
+    <lastmod>2026-06-03T16:07:46.981Z</lastmod>
   </url>
   <url>
-    <loc>https://pythonhealthdatascience.github.io/quarto-template/index.html</loc>
-    <lastmod>2026-05-22T14:13:07.774Z</lastmod>
+    <loc>https://jbenavidest.github.io/pages/projects.html</loc>
+    <lastmod>2026-06-03T16:07:46.981Z</lastmod>
   </url>
   <url>
-    <loc>https://pythonhealthdatascience.github.io/quarto-template/pages/2_markdown_basics.html</loc>
-    <lastmod>2026-05-22T14:13:07.775Z</lastmod>
+    <loc>https://jbenavidest.github.io/pages/posts.html</loc>
+    <lastmod>2026-06-03T16:07:46.981Z</lastmod>
   </url>
   <url>
-    <loc>https://pythonhealthdatascience.github.io/quarto-template/pages/3_quarto_features.html</loc>
-    <lastmod>2026-05-22T14:13:07.775Z</lastmod>
+    <loc>https://jbenavidest.github.io/pages/publications.html</loc>
+    <lastmod>2026-06-03T16:07:46.981Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jbenavidest.github.io/pages/people.html</loc>
+    <lastmod>2026-06-03T16:07:46.981Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jbenavidest.github.io/pages/contact.html</loc>
+    <lastmod>2026-06-03T16:07:46.981Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jbenavidest.github.io/pages/404.html</loc>
+    <lastmod>2026-06-03T16:07:46.981Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jbenavidest.github.io/pages/pub-listing.html</loc>
+    <lastmod>2026-06-03T16:07:46.981Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jbenavidest.github.io/posts/event-title/index.html</loc>
+    <lastmod>2026-06-03T16:07:46.982Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jbenavidest.github.io/posts/post1.html</loc>
+    <lastmod>2026-06-03T16:07:46.987Z</lastmod>
   </url>
 </urlset>
