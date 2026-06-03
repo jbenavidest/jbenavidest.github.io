@@ -1,10 +1,10 @@
 [
   {
-    "listing": "/pages/projects.html",
+    "listing": "/pages/pub-listing.html",
     "items": []
   },
   {
-    "listing": "/pages/people.html",
+    "listing": "/pages/posts.html",
     "items": []
   },
   {
@@ -17,11 +17,11 @@
     ]
   },
   {
-    "listing": "/pages/posts.html",
+    "listing": "/pages/people.html",
     "items": []
   },
   {
-    "listing": "/pages/pub-listing.html",
+    "listing": "/pages/projects.html",
     "items": []
   }
 ]

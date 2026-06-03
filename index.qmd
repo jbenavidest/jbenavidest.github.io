@@ -12,10 +12,10 @@ about:
   template: trestles
   image-width: 70%
   links:
-    - icon: sun
-      text: Lab
-      href: https://www.github.jbenavidest
-      target: _blank
+    # - icon: sun
+    #   text: Lab
+    #   href: https://www.github.jbenavidest
+    #   target: _blank
     # - icon: globe
     #   text: Uprofile
     #   href: https://baruch.cuny.edu
@@ -31,15 +31,7 @@ about:
     #   text: YouTube
     #   href: https://www.youtube.com     
     #   target: _blank 
-    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org/0000-0002-1443-0955
-      target: _blank
-    - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com/citations?user=jPlDiR8AAAAJ&hl=pt-BR
-      target: _blank
-    - text: "{{< ai researchgate >}} Research Gate"
-      href: https://www.researchgate.net/profile/Juan-Benavides-Tocarruncho?ev=hdr_xprf
-      target: _blank
+
 
 listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
   - id: recent-posts
@@ -74,7 +66,7 @@ I'm a [Juan Pablo Benavides], plant ecologist. Pasionate about ways to understan
 
 <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
 ## Recent Posts
-Check out the latest &nbsp;[Papers](pages/posts.qmd#category=paper)&nbsp;, &nbsp;[News](pages/posts.qmd#category=news)&nbsp;, &nbsp;[Events](pages/posts.qmd#category=event)&nbsp;, and &nbsp;[More »](pages/posts.qmd)
+Check out the latest &nbsp;[Papers](/pages/posts.qmd#category=paper)&nbsp;, &nbsp;[News](/pages/posts.qmd#category=news)&nbsp;, &nbsp;[Events](/pages/posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/pages/posts.qmd)
 
 :::{#recent-posts}
 :::

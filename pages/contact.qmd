@@ -8,17 +8,12 @@ title-block-banner: false
 
 **Quarto Academic**
 
-School
+Geography Department
 
-College
+Faculty of Environment Science and Economy
 
-University
+University of Exeter Laver Building, North Park Road, Exeter, UK, EX4 4QE
 
-Address: 
-
-Phone: 
-
-E-mail: 
-
+E-mail: [J.P.Benavides-Tocarruncho\@exeter.ac.uk](mailto:J.P.Benavides-Tocarruncho@exeter.ac.uk)
 
 </center>

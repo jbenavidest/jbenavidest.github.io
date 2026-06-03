@@ -1,0 +1,7 @@
+---
+title: "Science communication"
+format: html
+---
+
+# Inforgraphies
+Come back another time for another post!
