@@ -1,19 +1,6 @@
 [
   {
-    "listing": "/index.html",
-    "items": [
-      "/posts/post1.html",
-      "/posts/event-title/index.html",
-      "/posts/news-title/index.html",
-      "/posts/paper-title/index.html"
-    ]
-  },
-  {
-    "listing": "/pages/projects.html",
-    "items": []
-  },
-  {
-    "listing": "/pages/posts.html",
+    "listing": "/pages/pub-listing.html",
     "items": []
   },
   {
@@ -21,7 +8,19 @@
     "items": []
   },
   {
-    "listing": "/pages/pub-listing.html",
+    "listing": "/pages/posts.html",
     "items": []
+  },
+  {
+    "listing": "/pages/projects.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/event-title/index.html",
+      "/posts/news-title/index.html",
+      "/posts/paper-title/index.html"
+    ]
   }
 ]
