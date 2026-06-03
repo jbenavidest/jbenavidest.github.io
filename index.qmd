@@ -61,7 +61,7 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 :::{#hero-heading}
 
-I'm a [Juan Pablo Benavides], plant ecologist.
+I'm a [Juan Pablo Benavides], plant ecologist. Pasionate about ways to understand plant functions in tropical ecosystems. Working in root and hydraulic traits across tropical dry forest and savannas. 
 
 
 ## Experience
