@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "About me",
     "section": "",
-    "text": "Lab\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n      ORCID\n  \n  \n      Google Scholar\n  \n  \n      Research Gate\n  \n\n  \n  \nI’m a [Juan Pablo Benavides], plant ecologist. Pasionate about ways to understand plant functions in tropical ecosystems. Working in root and hydraulic traits across tropical dry forest and savannas.\n\n\n\nUndergraduate Researcher, National Univerisity of Colombia\nPhD Researcher, Univerisity of Exeter"
+    "text": "E-mail\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \nI’m a [Juan Pablo Benavides], plant ecologist. Pasionate about ways to understand plant functions in tropical ecosystems. Working in root and hydraulic traits across tropical dry forest and savannas.\n\n\n\nUndergraduate Researcher, National Univerisity of Colombia\nPhD Researcher, Univerisity of Exeter"
   },
   {
     "objectID": "index.html#experience",
@@ -46,7 +46,7 @@
     "href": "index.html#recent-posts",
     "title": "About me",
     "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\npost1\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
+    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\npost1\n\n\n\n\n\n\n\n\n\n\n\n\nScout visit in the Cerrado\n\n\n\nMay 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
   },
   {
     "objectID": "pages/projects.html",
@@ -63,18 +63,11 @@
     "text": "Category\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "pages/publications.html",
-    "href": "pages/publications.html",
-    "title": "Publications",
+    "objectID": "pages/contact.html",
+    "href": "pages/contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
-  },
-  {
-    "objectID": "pages/publications.html#selected-work",
-    "href": "pages/publications.html#selected-work",
-    "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
+    "text": "Quarto Academic\nGeography Department\nFaculty of Environment Science and Economy\nUniversity of Exeter Laver Building, North Park Road, Exeter, UK, EX4 4QE\nE-mail: J.P.Benavides-Tocarruncho at exeter dot ac dot uk"
   },
   {
     "objectID": "pages/people.html",
@@ -98,11 +91,18 @@
     "text": "Alumni\n\n\n    \n      \n      \n    \n\n\n\n\n\nName\nRole\nStarted\nEnded\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "pages/contact.html",
-    "href": "pages/contact.html",
-    "title": "Contact",
+    "objectID": "pages/publications.html",
+    "href": "pages/publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
+    "text": "ORCID  Google Scholar  Research Gate\n\n\n\n\n\n\n\n\n\n\n\nGraphic abstract\n\n\nBenavides-Tocarruncho JP, Paz H, Rodríguez N, Arrieta R, Pizano C, Salgado-Negret B. Belowground differentiation among trees in a degraded tropical dry forest landscape: no evidence of a collaboration gradient.. Journal of Tropical Ecology. 2024;40:e15. doi:10.1017/S0266467424000129"
+  },
+  {
+    "objectID": "pages/SciComm.html",
+    "href": "pages/SciComm.html",
+    "title": "Science communication",
+    "section": "",
+    "text": "Inforgraphies\nCome back another time for another post!"
   },
   {
     "objectID": "pages/404.html",
@@ -131,6 +131,13 @@
     "title": "Publications",
     "section": "Peer-reviewed Journal Papers",
     "text": "Peer-reviewed Journal Papers\n\n\n    \n      \n      \n    \n\n\n\n\nTitle\nAuthor\nyear\njournal\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/event-title/index.html",
+    "href": "posts/event-title/index.html",
+    "title": "Scout visit in the Cerrado",
+    "section": "",
+    "text": "I visit the Cerrado for the first time on March 2025 and this helped to narrow the ideas about my PhD. project"
   },
   {
     "objectID": "posts/post1.html",
