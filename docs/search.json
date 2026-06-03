@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "posts/post1.html",
+    "href": "posts/post1.html",
+    "title": "post1",
+    "section": "",
+    "text": "this is a post test"
+  },
+  {
+    "objectID": "posts/news-title/index.html",
+    "href": "posts/news-title/index.html",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "posts/news-title/index.html#summary",
+    "href": "posts/news-title/index.html#summary",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "pages/publications.html",
+    "href": "pages/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+  },
+  {
+    "objectID": "pages/publications.html#selected-work",
+    "href": "pages/publications.html#selected-work",
+    "title": "Publications",
+    "section": "Selected Work",
+    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
+  },
+  {
+    "objectID": "pages/projects.html",
+    "href": "pages/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Title\n\n\nTeam\n\n\nFunder\n\n\nDescription\n\n\nFunding\n\n\nStart\n\n\nEnd\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pages/people.html",
+    "href": "pages/people.html",
+    "title": "People",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "pages/people.html#team",
+    "href": "pages/people.html#team",
+    "title": "People",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "pages/people.html#alumni",
+    "href": "pages/people.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\nName\n\n\nRole\n\n\nStarted\n\n\nEnded\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pages/404.html",
+    "href": "pages/404.html",
+    "title": "Page Unplugged",
+    "section": "",
+    "text": "The page you requested cannot be found (perhaps it was unplugged).\nYou may want to try searching to find the page’s new plug."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About me",
+    "section": "",
+    "text": "Lab\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n      ORCID\n  \n  \n      Google Scholar\n  \n  \n      Research Gate\n  \n\n  \n  \nI’m a [Juan Pablo Benavides], plant ecologist.\n\n\n\nUndergraduate Researcher, National Univerisity of Colombia\nPhD Researcher, Univerisity of Exeter"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About me",
+    "section": "",
+    "text": "Undergraduate Researcher, National Univerisity of Colombia\nPhD Researcher, Univerisity of Exeter"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Quarto Academic, PhD",
+    "section": "",
+    "text": "PhD, Univerisity\nMaster, Univerisity\nBachelor, Univerisity"
+  },
+  {
+    "objectID": "index.html#recent-posts",
+    "href": "index.html#recent-posts",
+    "title": "About me",
+    "section": "Recent Posts",
+    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\npost1\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nAll Posts »"
+  },
+  {
+    "objectID": "pages/contact.html",
+    "href": "pages/contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
+  },
+  {
+    "objectID": "pages/posts.html",
+    "href": "pages/posts.html",
+    "title": "What’s New & Updated",
+    "section": "",
+    "text": "Category\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pages/pub-listing.html",
+    "href": "pages/pub-listing.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Note: * corresponding author"
+  },
+  {
+    "objectID": "pages/pub-listing.html#selected-work",
+    "href": "pages/pub-listing.html#selected-work",
+    "title": "Publications",
+    "section": "Selected Work",
+    "text": "Selected Work\n\n\n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nAuthor\n\n\nyear\n\n\njournal\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pages/pub-listing.html#peer-reviewed-journal-papers",
+    "href": "pages/pub-listing.html#peer-reviewed-journal-papers",
+    "title": "Publications",
+    "section": "Peer-reviewed Journal Papers",
+    "text": "Peer-reviewed Journal Papers\n\n\n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nAuthor\n\n\nyear\n\n\njournal\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/paper-title/index.html#abstract",
+    "href": "posts/paper-title/index.html#abstract",
+    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "section": "Abstract",
+    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
+  },
+  {
+    "objectID": "posts/paper-title/index.html#links",
+    "href": "posts/paper-title/index.html#links",
+    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "section": "Links",
+    "text": "Links\nPublished paper"
+  }
+]

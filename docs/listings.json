@@ -1,0 +1,27 @@
+[
+  {
+    "listing": "/pages/projects.html",
+    "items": []
+  },
+  {
+    "listing": "/pages/people.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/post1.html",
+      "/posts/event-title/index.html",
+      "/posts/news-title/index.html",
+      "/posts/paper-title/index.html"
+    ]
+  },
+  {
+    "listing": "/pages/posts.html",
+    "items": []
+  },
+  {
+    "listing": "/pages/pub-listing.html",
+    "items": []
+  }
+]

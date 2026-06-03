@@ -1,97 +1,58 @@
 project:
   type: website
   output-dir: docs
-#  pre-render:  # This can be deleted if you are using the manually curated list of publications in publications.qmd
-#    - python xlsx_to_yml.py  # Automatically generate publications.yml from publications.xlsx
-    
-# Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-author-meta: "Dr. Gang He"
+
+description-meta: "Research website about Juan Pablo Benavides-Tocarruncho"
+author-meta: "Juan Benavides-Tocarruncho"
 
 website:
-   title: "Juan Benavides-Tocarruncho"
-   image: images/exeter.png
-   description: "Quarto Academic Website Template adapted by Dr. Gang He"
- 
-navbar:
-    background: light  # You can change the background color here
-
-    left:   # You can comment out all navigation items here if you just like to keep the index page only
+  title: "Juan P. Benavides-Tocarruncho"
+  image: files/images/exeter.png
+  description: "Research website about Juan Pablo Benavides-Tocarruncho"
+  
+  navbar:
+    background: light
+    left:
       - text: Home
         href: index.qmd
       - text: About
         menu:
-          - text: News
-            href: pages/posts.qmd#category=news
-          - text: Events
-            href: pages/posts.qmd#category=event      
+          # - text: News
+          #   href: pages/posts.qmd#category=news
+          # - text: Events
+          #   href: pages/posts.qmd#category=event
           - text: Contact
-            href: pages/contact.qmd             
+            href: pages/contact.qmd
       - text: Research
-        menu:
-          - text: Publications Listing  # Automatically generated from publications.xlsx
-            href: pages/pub-listing.qmd
-          - text: Publications  # Manually curated list of publications
-            href: pages/publications.qmd            
-          - text: Selected Papers
-            href: posts.qmd#category=paper
-          - text: Grants
-            href: pages/projects.qmd                                
-      #- text: Teaching # Comment the Teaching part out to remove the Teaching page
-      #  href: teaching.qmd
+        href: pages/publications.qmd
+#          - text: Grants
+#            href: pages/projects.qmd
       - text: Outreach
-        menu:        
-        - text: Presentations
-          href: pages/posts.qmd#category=presentation                   
-      - text: Group   # Comment the Group part out to remove the Group page
-        href: pages/people.qmd
-
-    right: 
+        menu:
+          - text: Presentations
+            href: pages/posts.qmd#category=presentation
+          - text: Science communication
+            href: pages/SciComm.qmd
+      - text: Group
+        href: https://sites.exeter.ac.uk/lucyrowland/
+        target: _blank
+    right:
       - text: CV
         href: files/CV-JuanPablo_Benavides-Tocarruncho.pdf
       - icon: github
         href: https://github.com/jbenavidest
         target: _blank
-      # - icon: rss
-      #   href: posts.xml
-      #   target: _blank
-  
-page-navigation: true
-  
-  
-page-footer: 
-    left: "[Juan P. Benavides](http://www.github.com/jbenavidest) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Juan Benavides](http://jbenavidest.github.io)"
-    # not needed
-    # right:  
-    #   - icon: github
-    #     href: https://github.com/jbenav
-    #     target: _blank
-    #   - text: "{{< fa brands bluesky >}}" 
-    #     href: https://bsky.app
-    #     target: _blank
-    #   - icon: rss
-    #     href: posts.xml
-    #     target: _blank  
-  
-search: true
 
-reader-mode: true
+  page-footer:
+    left: "[Juan P. Benavies-T](http://www.github.com/jbenavidest) &copy; <script>document.write(new Date().getFullYear())</script>"
+    center: "Built with [Quarto](https://quarto.org)"
 
-draft-mode: unlinked
-  
-##  repo-url: https://github.com/drganghe/quarto-academic-website-template
-#  repo-actions: [edit, issue, source]
-  
-open-graph: true
-
-site-url: "https://jbenavidest.github.io/About"
-  
-google-analytics:
-    tracking-id: ""  # Please delete or replace with your own tracking ID
-    anonymize-ip: true 
-
-#bibliography: references.bib  # Add references.bib to the root folder to enable the bibliography function
+  page-navigation: true
+  search: true
+  reader-mode: true
+  draft-mode: unlinked
+  open-graph: true
+  site-url: "https://jbenavidest.github.io"
 
 format:
   html:
@@ -100,11 +61,5 @@ format:
     toc: true
     footnotes-hover: true
     code-copy: true
-    code-link: true
-    code-overflow: wrap
-    fig-align: center
-    link-external-icon: false
     link-external-newwindow: true
     email-obfuscation: javascript
-    link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
-    #include-in-header: "files/includes/_academic.qmd"

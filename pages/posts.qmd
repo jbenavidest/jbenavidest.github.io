@@ -1,8 +1,8 @@
 ---
-title: "What’s New & Updated"
+title: "What's New & Updated"
 subtitle: "Posts about papers, events, news, and more"
 description-meta: "Posts about papers, events, news, and more"
-listing: 
+listing:
   sort: "date desc"
   type: default
   page-size: 100
@@ -10,19 +10,14 @@ listing:
   sort-ui: true
   filter-ui: true
   feed: true
-  contents: 
-      - pages/posts
-      - posts/post-links.yml  # Use this file to add external links
-      categories: [] 
-
+  contents:
+    - pages/posts
+    - posts/post-links.yml
 page-layout: full
 draft-mode: unlinked
 page-navigation: false
 title-block-banner: false
 ---
-
 :::{#posts}
 :::
-
 # Category
-
