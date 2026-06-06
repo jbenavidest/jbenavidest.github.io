@@ -1,11 +1,11 @@
 ---
-title: "What’s New & Updated"
-subtitle: "Posts on papers, events, news, and more"
+title: "Recent news"
+subtitle: "Posts on events, news, papers, and more"
 description-meta: "Posts on papers, events, news, and more"
 listing: 
   sort: "date desc"
   type: default
-  page-size: 100
+  page-size: 10
   categories: true
   sort-ui: true
   filter-ui: true

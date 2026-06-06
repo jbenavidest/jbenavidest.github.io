@@ -3,7 +3,7 @@ title: "GW4+ Thematic meeting: Climate change and Hazards - University of Bristo
 description: "I presented the preliminar results of my project"
 author: "News"
 date: "2026-01-28"
-categories: [news]
+categories: [event]
 image: "/posts/202601-Gw4ThematicMeeting/Juan_gw4Jan2026.JPG"
 #css: /custom.css
 #draft: true
