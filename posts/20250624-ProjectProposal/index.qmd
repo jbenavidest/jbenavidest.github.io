@@ -1,0 +1,21 @@
+---
+title: "Presenting my PhD proposal"
+description: "After almost a year in my doctoral program, I presented my plan to collegueas from GW4+ and the geography department."
+subtitle: "Upgrade"
+date: "1935-05-15"
+categories: [presentation]
+image: "/posts/20250624-ProjectProposal/IMG-20250624-WA0015(1).jpg"
+google-scholar: true
+---
+
+<!-- <!--Include academic icons or bottons-->
+
+<!-- {{< include /files/includes/_academic.qmd >}} -->
+
+As part of the doctoral program, a report is presented after 10 months to show progress and structured plan for the whole PhD project. I presented my ideas to experienced and knowledgeable examiners as well as to collegueas from the Gw4+ program at the thematic meeting Environmental solutions at the National History Museum (NHM) in London and the Geography department at Univeristy of Exeter along with other colleagues.
+
+![Presentation at the NHM in London](IMG-20250624-WA0015(1).jpg){fig-align="center"}
+
+![Upgrade presentation at Physics Building, UoE](IMG-20250702-WA0005(1).jpg){fig-align="center"}
+
+\`\`\`

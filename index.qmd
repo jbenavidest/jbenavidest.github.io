@@ -37,7 +37,7 @@ listing:   # Comment the listing section and delete corresponding lines in the i
   - id: recent-posts
     contents: 
       - posts
-      - posts/post-links.yml
+      #- posts/post-links.yml
     exclude:
       title: ""
     type: grid
@@ -51,24 +51,25 @@ listing:   # Comment the listing section and delete corresponding lines in the i
       - "title asc"
 ---
 
-:::{#hero-heading}
+::: {#hero-heading}
+I am a UKRI-funded PhD candidate studying plant functional ecology in dry tropical ecosystems, with a background in biology and applied data science.
 
-I'm a [Juan Pablo Benavides], plant ecologist. Pasionate about ways to understand plant functions in tropical ecosystems. Working in root and hydraulic traits across tropical dry forest and savannas. 
+Growing up in Colombia, I found my passion for becoming a scientist and speaking for ecosystems that cannot speak for themselves. I became a biologist at [UNAL](unal.edu.co) where I learned about functional traits and ecological restoration. I developed my interest in ecosystem modelling through an MSc in data science at [UoEx](exeter.ac.uk). I value reproducibility, collaboration and innovation. I try to put these values into my functional trait research about savannas, contrasting water and fire strategies across Africa and South America.
 
-
-## Experience
-
-- Undergraduate Researcher, National Univerisity of Colombia 
-- PhD Researcher, Univerisity of Exeter 
-
+My broad interests include plant functional ecology and data science, with a focus on plant organs such as roots and hydraulic traits. I am interested in modelling ecosystems and aid ecosystem restoration and management for sustainable futures. I value the great biodiversity of tropical ecosystems, and I am keen on broadening understanding of these regions and their services for local communities and society.
 :::
-
 
 <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-## Recent Posts
-Check out the latest &nbsp;[Papers](/pages/posts.qmd#category=paper)&nbsp;, &nbsp;[News](/pages/posts.qmd#category=news)&nbsp;, &nbsp;[Events](/pages/posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/pages/posts.qmd)
 
-:::{#recent-posts}
+## Recent Posts
+
+Check out the latest [Papers](/pages/posts.qmd#category=paper), [News](/pages/posts.qmd#category=news), [Events](/pages/posts.qmd#category=event), and [More »](/pages/posts.qmd)
+
+::: {#recent-posts}
 :::
 
-<p align="right">[All Posts »](/pages/posts.qmd)</p>
+<p align="right">
+
+[All Posts »](/pages/posts.qmd)
+
+</p>

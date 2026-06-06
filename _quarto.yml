@@ -13,26 +13,26 @@ website:
   navbar:
     background: light
     left:
-      - text: Home
-        href: index.qmd
-      - text: About
-        menu:
+      #- text: Home
+      #  href: index.qmd
+      - text: Contact
+        href: pages/contact.qmd
+        #menu:
+          # - text: Contact
           # - text: News
           #   href: pages/posts.qmd#category=news
           # - text: Events
           #   href: pages/posts.qmd#category=event
-          - text: Contact
-            href: pages/contact.qmd
       - text: Research
         href: pages/publications.qmd
 #          - text: Grants
 #            href: pages/projects.qmd
       - text: Outreach
-        menu:
-          - text: Presentations
-            href: pages/posts.qmd#category=presentation
-          - text: Science communication
-            href: pages/SciComm.qmd
+        href: pages/SciComm.qmd
+        #menu:
+          #- text: Presentations
+          #  href: pages/posts.qmd#category=presentation
+          #- text: Science communication
       - text: Group
         href: https://sites.exeter.ac.uk/lucyrowland/
         target: _blank
@@ -46,13 +46,13 @@ website:
   page-footer:
  #   left: "[Juan P. Benavies-T](http://www.github.com/jbenavidest) &copy; <script>document.write(new Date().getFullYear())</script>"
     center: "Built with [Quarto](https://quarto.org)"
+  site-url: "https://jbenavidest.github.io"
 
   page-navigation: true
   search: true
   reader-mode: true
   draft-mode: unlinked
   open-graph: true
-  site-url: "https://jbenavidest.github.io"
 
 format:
   html:
@@ -60,6 +60,6 @@ format:
     css: styles.css
     toc: true
     footnotes-hover: true
-    code-copy: true
+    code-copy: false
     link-external-newwindow: true
     email-obfuscation: javascript

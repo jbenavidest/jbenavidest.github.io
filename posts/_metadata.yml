@@ -5,7 +5,7 @@
 freeze: true
 
 # Enable banner style title blocks
-title-block-banner: false
+title-block-banner: true
 
 # Draft support
 # See https://quarto.org/docs/prerelease/1.5/website-drafts.html
