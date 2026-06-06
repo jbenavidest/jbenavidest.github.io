@@ -11,8 +11,8 @@ listing:
   filter-ui: true
   feed: true
   contents: 
-      - pages/posts
-      - posts/post-links.yml
+      - posts/**/*.qmd
+      #- posts/post-links.yml
   #categories: [] 
 
 page-layout: full

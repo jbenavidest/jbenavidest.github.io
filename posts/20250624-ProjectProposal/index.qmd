@@ -4,7 +4,7 @@ description: "After almost a year in my doctoral program, I presented my plan to
 subtitle: "Upgrade"
 date: "1935-05-15"
 categories: [presentation]
-image: "IMG-20250624-WA0015(1).jpg"
+image: "/posts/20250624-ProjectProposal/IMG-20250624-WA0015(1).jpg"
 google-scholar: true
 ---
 

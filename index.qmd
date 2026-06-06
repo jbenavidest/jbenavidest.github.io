@@ -36,7 +36,7 @@ about:
 listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
   - id: recent-posts
     contents: 
-      - posts
+      - posts/**/*.qmd
       #- posts/post-links.yml
     exclude:
       title: ""
@@ -63,7 +63,7 @@ My broad interests include plant functional ecology and data science, with a foc
 
 ## Recent Posts
 
-Check out the latest [Papers](/pages/posts.qmd#category=paper), [News](/pages/posts.qmd#category=news), [Events](/pages/posts.qmd#category=event), and [More »](/pages/posts.qmd)
+Check out the latest [Papers](posts.qmd#category=paper), [News](posts.qmd#category=news), [Events](posts.qmd#category=event), and [More »](posts.qmd)
 
 ::: {#recent-posts}
 :::

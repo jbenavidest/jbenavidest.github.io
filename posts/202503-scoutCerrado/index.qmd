@@ -4,7 +4,7 @@ description: "First exploratory trip to Chapada dos Veadeiros, Goias, Brasil"
 author: "Juan PBT"
 date: "2025-03-04"
 categories: [event, presentation]
-image: "Cerrado_March2025.JPG"
+image: "/posts/202503-scoutCerrado/Cerrado_March2025.JPG"
 #css: /custom.css
 #draft: true
 ---
