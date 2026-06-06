@@ -2,7 +2,7 @@
 title: "Presenting my PhD proposal"
 description: "After almost a year in my doctoral program, I presented my plan to collegueas from GW4+ and the geography department."
 subtitle: "Upgrade"
-date: "1935-05-15"
+date: "2025-06-24"
 categories: [presentation]
 image: "/posts/20250624-ProjectProposal/IMG-20250624-WA0015(1).jpg"
 google-scholar: true
