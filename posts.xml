@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Juan P. Benavides-Tocarruncho</title>
+<link>https://jbenavidest.github.io/posts.html</link>
+<atom:link href="https://jbenavidest.github.io/posts.xml" rel="self" type="application/rss+xml"/>
+<description>Research website about Juan Pablo Benavides-Tocarruncho</description>
+<image>
+<url>https://jbenavidest.github.io/files/images/exeter.png</url>
+<title>Juan P. Benavides-Tocarruncho</title>
+<link>https://jbenavidest.github.io/posts.html</link>
+<height>144</height>
+<width>144</width>
+</image>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Wed, 28 Jan 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>GW4+ Thematic meeting: Climate change and Hazards - University of Bristol</title>
+  <dc:creator>News </dc:creator>
+  <link>https://jbenavidest.github.io/posts/202601-Gw4ThematicMeeting/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>I presented a poster about the preliminary results of my fire experiment in Chapada dos Veadeiros in Brasil</p>
+<p><img src="https://jbenavidest.github.io/posts/202601-Gw4ThematicMeeting/Juan_gw4Jan2026.jpg" class="img-fluid" width="334"></p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>event</category>
+  <guid>https://jbenavidest.github.io/posts/202601-Gw4ThematicMeeting/</guid>
+  <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://jbenavidest.github.io/posts/202601-Gw4ThematicMeeting/Juan_gw4Jan2026.JPG" medium="image"/>
+</item>
+<item>
+  <title>Scout visit in the Cerrado</title>
+  <dc:creator>Juan PBT</dc:creator>
+  <link>https://jbenavidest.github.io/posts/202503-scoutCerrado/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://jbenavidest.github.io/posts/202503-scoutCerrado/Cerrado_March2025.JPG" class="img-fluid"></p>
+<p>I visit the Cerrado for the first time on March 2025 and this helped to narrow the ideas about my PhD. project</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://jbenavidest.github.io/posts/202503-scoutCerrado/</guid>
+  <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://jbenavidest.github.io/posts/202503-scoutCerrado/Cerrado_March2025.JPG" medium="image"/>
+</item>
+<item>
+  <title>Presenting my PhD proposal</title>
+  <link>https://jbenavidest.github.io/posts/20250624-ProjectProposal/</link>
+  <description><![CDATA[ 
+
+
+
+
+<!-- <!--Include academic icons or bottons-->
+<!-- {{< include /files/includes/_academic.qmd >}} -->
+<p>As part of the doctoral program, a report is presented after 10 months to show progress and structured plan for the whole PhD project. I presented my ideas to experienced and knowledgeable examiners as well as to collegueas from the Gw4+ program at the thematic meeting Environmental solutions at the National History Museum (NHM) in London and the Geography department at Univeristy of Exeter along with other colleagues.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://jbenavidest.github.io/posts/20250624-ProjectProposal/IMG-20250624-WA0015(1).jpg" class="img-fluid figure-img"></p>
+<figcaption>Presentation at the NHM in London</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://jbenavidest.github.io/posts/20250624-ProjectProposal/IMG-20250702-WA0005(1).jpg" class="img-fluid figure-img"></p>
+<figcaption>Upgrade presentation at Physics Building, UoE</figcaption>
+</figure>
+</div>
+<p>```</p>
+
+
+
+ ]]></description>
+  <category>presentation</category>
+  <guid>https://jbenavidest.github.io/posts/20250624-ProjectProposal/</guid>
+  <pubDate>Wed, 15 May 1935 00:00:00 GMT</pubDate>
+  <media:content url="https://jbenavidest.github.io/posts/20250624-ProjectProposal/IMG-20250624-WA0015(1).jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
