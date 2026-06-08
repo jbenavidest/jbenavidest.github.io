@@ -5,13 +5,13 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Juan P. Benavides-Tocarruncho</title>
+<title>Juan Benavides-Tocarruncho</title>
 <link>https://jbenavidest.github.io/posts.html</link>
 <atom:link href="https://jbenavidest.github.io/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Research website about Juan Pablo Benavides-Tocarruncho</description>
 <image>
 <url>https://jbenavidest.github.io/files/images/exeter.png</url>
-<title>Juan P. Benavides-Tocarruncho</title>
+<title>Juan Benavides-Tocarruncho</title>
 <link>https://jbenavidest.github.io/posts.html</link>
 <height>144</height>
 <width>144</width>
