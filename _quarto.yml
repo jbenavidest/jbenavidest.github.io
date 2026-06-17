@@ -11,7 +11,7 @@ website:
   description: "Research website about Juan Pablo Benavides-Tocarruncho"
   
   navbar:
-    background: light
+    background: dark
     left:
       #- text: Home
       #  href: index.qmd
@@ -56,8 +56,8 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: litera
+    css: bootstrap.min.css
     toc: true
     footnotes-hover: true
     code-copy: false
