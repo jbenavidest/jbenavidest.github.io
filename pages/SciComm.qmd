@@ -5,8 +5,9 @@ format: html
 
 # Ecological restoration outreach
 
-One of the earlier approaches to science communication and outreach was co-leading the Student Ecological Restoration Society (Greunal) during 2021 and 2023. Please find the [Instagram posts](https://www.instagram.com/p/CDeimKkFNrx/) and workshop books on [ecological restoration in the Andes](/posts/20230614-Restauracion_monitoreo/index.qmd) during my undergrad.
+One of the earlier approaches to science communication and outreach was co-leading the Student Ecological Restoration Society (Greunal) during 2021 and 2023. Please find the [Instagram posts](https://www.instagram.com/greunal) and workshop books on [ecological restoration in the Andes](/posts/20230614-Restauracion_monitoreo/index.qmd) during my undergrad.
 
 [![Cápsulas de Restauración Ecológica - Experiencias Locales en Cundinamarca y Boyacá](/files/images/Capsulas2023.png){fig-alt="Cápsulas de Restauración Ecológica Edicion 2. 2023" width="15cm"}](https://www.researchgate.net/publication/377845778_Capsulas_de_Restauracion_Ecologica_-_Experiencias_Locales_en_Cundinamarca_y_Boyaca)
 
-[![Cápsulas de Restauración Ecológica - El cerro San Marcos (Villa de Leyva, Boyacá, Colombia)](/files/images/Capsulas2021.png){width="15cm"}](https://www.researchgate.net/publication/369268111_Capsulas_de_Restauracion_Ecologica_-_El_cerro_San_Marcos_Villa_de_Leyva_Boyaca_Colombia)\](https://www.researchgate.net/publication/369268111_Capsulas_de_Restauracion_Ecologica\_-\_El_cerro_San_Marcos_Villa_de_Leyva_Boyaca_Colombia) (2023)
+[![Cápsulas de Restauración Ecológica - El cerro San Marcos (Villa de Leyva, Boyacá, Colombia)](/files/images/Capsulas2021.png){fig-alt="Cápsulas de Restauración Ecológica Edicion 1. 2021" width="15cm"}](https://www.researchgate.net/publication/369268111_Capsulas_de_Restauracion_Ecologica_-_El_cerro_San_Marcos_Villa_de_Leyva_Boyaca_Colombia)
+
