@@ -1,7 +1,7 @@
 ---
 title: "Simposio de monitoreo y planeación en restauración ecológica"
-description: "Participación con una ponencia y la organización del simposio en colaboración con la Fundación Natura"
-subtitle: "Simposio Monitoreo"
+description: "Participación con una ponencia y la organización en colaboración con la Fundación Natura"
+subtitle: "VI Congreso Iberoamericano y del Caribe de Restauración Ecológica"
 date: "2023-06-14"
 categories: [presentation]
 image: "/posts/20230614-Restauracion_monitoreo/1.jpg"
