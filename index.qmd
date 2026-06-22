@@ -70,6 +70,6 @@ Check out the latest [Papers](posts.qmd#category=paper), [News](posts.qmd#catego
 
 <p align="right">
 
-[All Posts »](/pages/posts.qmd)
+[All Posts »](/posts.qmd)
 
 </p>
