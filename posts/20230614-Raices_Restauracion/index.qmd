@@ -2,9 +2,9 @@
 title: "Knoweldge about fine root traits"
 description: "Reflection after the symposium held in the Iberoamerican Ecological restoriation Congress"
 subtitle: "VI Congreso Iberoamericano y del Caribe de Restauración Ecológica"
-date: "2023-06-13"
+date: "2023-06-14"
 categories: [presentation]
-image: "/posts/20230613-Raices_Restauracion/1_cropped.png"
+image: "/posts/20230614-Raices_Restauracion/1_cropped.png"
 google-scholar: true
 ---
 
