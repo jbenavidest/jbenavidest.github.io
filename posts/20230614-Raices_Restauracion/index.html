@@ -7,9 +7,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Juan Benavides-Tocarruncho">
+<meta name="dcterms.date" content="2023-06-14">
 <meta name="description" content="Research website about Juan Pablo Benavides-Tocarruncho">
 
-<title>About me – Juan Benavides-Tocarruncho</title>
+<title>Knoweldge about fine root traits – Juan Benavides-Tocarruncho</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -28,24 +29,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-fccda67ad054f91723d83f04aea39adc.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-fccda67ad054f91723d83f04aea39adc.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -73,72 +73,22 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-recent-posts .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      page: 3,
-    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-recent-posts'] = new List('listing-recent-posts', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="bootstrap.min.css">
-<meta property="og:title" content="About me – Juan Benavides-Tocarruncho">
-<meta property="og:description" content="Research website about Juan Pablo Benavides-Tocarruncho">
-<meta property="og:image" content="https://jbenavidest.github.io/files/images/Guaviare.JPG">
+<link rel="stylesheet" href="../../bootstrap.min.css">
+<meta property="og:title" content="Knoweldge about fine root traits – Juan Benavides-Tocarruncho">
+<meta property="og:description" content="Reflection after the symposium held in the Iberoamerican Ecological restoriation Congress">
+<meta property="og:image" content="https://jbenavidest.github.io/posts/20230614-Raices_Restauracion/1_cropped.png">
 <meta property="og:site_name" content="Juan Benavides-Tocarruncho">
+<meta property="og:image:height" content="1468">
+<meta property="og:image:width" content="1080">
+<meta name="citation_title" content="Knoweldge about fine root traits">
+<meta name="citation_publication_date" content="2023-06-14">
+<meta name="citation_cover_date" content="2023-06-14">
+<meta name="citation_year" content="2023">
+<meta name="citation_online_date" content="2023-06-14">
+<meta name="citation_fulltext_html_url" content="https://jbenavidest.github.io/posts/20230614-Raices_Restauracion/">
+<meta name="citation_language" content="en">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -148,7 +98,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Juan Benavides-Tocarruncho</span>
     </a>
   </div>
@@ -159,15 +109,15 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./pages/contact.html"> 
+    <a class="nav-link" href="../../pages/contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./pages/publications.html"> 
+    <a class="nav-link" href="../../pages/publications.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./pages/SciComm.html"> 
+    <a class="nav-link" href="../../pages/SciComm.html"> 
 <span class="menu-text">Outreach</span></a>
   </li>  
   <li class="nav-item">
@@ -177,7 +127,7 @@ window.Quarto = {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./files/CV-JuanPablo_Benavides-Tocarruncho.pdf"> 
+    <a class="nav-link" href="../../files/CV-JuanPablo_Benavides-Tocarruncho.pdf"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item compact">
@@ -193,116 +143,95 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#simposio-de-conocimiento-de-raíces-finas-en-colombia---reflexiones-finales" id="toc-simposio-de-conocimiento-de-raíces-finas-en-colombia---reflexiones-finales" class="nav-link active" data-scroll-target="#simposio-de-conocimiento-de-raíces-finas-en-colombia---reflexiones-finales">Simposio de conocimiento de raíces finas en Colombia - Reflexiones finales</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
-
-
-
-<div class="quarto-about-trestles column-page">
-  <div class="about-entity">
-    <img src="files/images/Guaviare.JPG" class="about-image
-  rounded " style="width: 70%;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">About me</h1>
-</div>
-<div class="quarto-title-meta column-page">
+<h1 class="title">Knoweldge about fine root traits</h1>
+<p class="subtitle lead">VI Congreso Iberoamericano y del Caribe de Restauración Ecológica</p>
+  <div class="quarto-categories">
+    <div class="quarto-category">presentation</div>
   </div>
+  </div>
+
+<div>
+  <div class="description">
+    Reflection after the symposium held in the Iberoamerican Ecological restoriation Congress
+  </div>
+</div>
+
+
+<div class="quarto-title-meta">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">June 14, 2023</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
 </header>
-    <div class="about-links">
-  <a href="mailto:J.P.Benavides-Tocarruncho@exeter.ac.uk" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">E-mail</span>
-  </a>
-  <a href="https://www.linkedin.com/in/juan-pablo-b-2422691b5/" class="about-link" rel="" target="_blank">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><div id="hero-heading">
-<p>I am a UKRI-funded PhD candidate studying plant functional ecology in dry tropical ecosystems, with a background in biology and applied data science.</p>
-<p>Growing up in Colombia, I found my passion for becoming a scientist and speaking for ecosystems that cannot speak for themselves. I became a biologist at <a href="https://unal.edu.co" class="external" target="_blank">UNAL</a> where I learned about functional traits and ecological restoration. I developed my interest in ecosystem modelling through an MSc in data science at <a href="https://exeter.ac.uk" class="external" target="_blank">UoEx</a>. I value reproducibility, collaboration and innovation. I try to put these values into my functional trait research about savannas, contrasting water and fire strategies across Africa and South America.</p>
-<p>My broad interests include plant functional ecology and data science, with a focus on plant organs such as roots and hydraulic traits. I am interested in modelling ecosystems and aid ecosystem restoration and management for sustainable futures. I value the great biodiversity of tropical ecosystems, and I am keen on broadening understanding of these regions and their services for local communities and society.</p>
-</div></div>
-</div>
-
-<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-<section id="recent-posts" class="level2">
-<h2 data-anchor-id="recent-posts">Recent Posts</h2>
-<p>Check out the latest <a href="./posts.html#category=paper">Papers</a>, <a href="./posts.html#category=news">News</a>, <a href="./posts.html#category=event">Events</a>, and <a href="./posts.html">More »</a></p>
-<div id="listing-recent-posts" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="ZXZlbnQ=" data-listing-date-sort="1769558400000" data-listing-file-modified-sort="1782159305690" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="24">
-<a href="./posts/20260128-Gw4ThematicMeeting/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/20260128-Gw4ThematicMeeting/Juan_gw4Jan2026.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-GW4+ Thematic meeting: Climate change and Hazards - University of Bristol
-</h5>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Jan 28, 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="cHJlc2VudGF0aW9u" data-listing-date-sort="1750723200000" data-listing-file-modified-sort="1782159305684" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="88">
-<a href="./posts/20250624-ProjectProposal/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/20250624-ProjectProposal/IMG-20250624-WA0015(1).jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Presenting my PhD proposal
-</h5>
-<div class="card-subtitle listing-subtitle">
-Upgrade
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Jun 24, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="bmV3cw==" data-listing-date-sort="1741046400000" data-listing-file-modified-sort="1782159305674" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
-<a href="./posts/20250321-scoutCerrado/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/20250321-scoutCerrado/Cerrado_March2025.JPG" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Scout visit in the Cerrado
-</h5>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Mar 4, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-<p align="right">
-</p><p><a href="./pages/posts.qmd">All Posts »</a></p>
-<p></p>
 
 
+<section id="simposio-de-conocimiento-de-raíces-finas-en-colombia---reflexiones-finales" class="level1">
+<h1>Simposio de conocimiento de raíces finas en Colombia - Reflexiones finales</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="foto_presentacion_Raices.jpg" class="img-fluid figure-img" alt="Juan presentando sobre rasgos y su relacion con el crecimiento"></p>
+<figcaption>Presentacion de rasgos y su relacion con el crecimiento</figcaption>
+</figure>
+</div>
+<p>El comité organizador del simposio: Juan Manuel Cely, Ana Belén Hurtado y yo, resume los principales puntos socializados en el simposio:</p>
+<p>En el simposio de raíces se presentaron las siguientes charlas donde se hablaron de los siguientes temas principales:</p>
+<ol type="1">
+<li><p>Ana Belén Hurtado - la importancia de estudiar raíces y su relación con la restauración</p></li>
+<li><p>Alisson González - las raíces en las plántulas de bosque seco en el vivero y sequía</p></li>
+<li><p>Juan Manuel Cely - las raíces en las plántulas en el bosque seco y topografía</p></li>
+<li><p>Beatriz Salgado Negret - las raíces y su efecto en el suelo en el bosque seco</p></li>
+<li><p>Juan Pablo Benavides - las raíces y su relación con el crecimiento en el bosque seco</p></li>
+<li><p>Estela Quintero - las raíces en el bosque andino y sequía</p></li>
+</ol>
+<p>A partir de los novedosos estudios presentados y las enriquecedoras preguntas y comentarios generados en los espacios de discusión, se generaron las siguientes conclusiones:</p>
+<ul>
+<li>El estudio de las raíces se presenta como una innovación y se destaca por estar en la frontera del conocimiento.</li>
+<li>Las metodologías de muestreo, rasgos a medir y análisis en las raíces deben tener puntos comunes que permitan su comparación a través de los estudios.</li>
+<li>El estudio de las raíces se ha realizado mayoritariamente en el bosque seco, solo un trabajo se realizó en el bosque andino. No hubo representación de otros ecosistemas.</li>
+<li>Entender los microorganismos que interactúan con las raíces es importante, se debe explorar más en la relación con endófitos y micorrizas.</li>
+<li>Los trade-off de los órganos encima y debajo del suelo son igual de clave para entender el funcionamiento de las plantas y se complementan mutuamente.</li>
+<li>Surge la necesidad de entender el papel que cumplen las condiciones edáficas sobre los cambios y tendencias que observamos en las raíces.</li>
+<li>La información que brindan las raíces es fundamental para entender los procesos de restauración ecológica tanto para la propagación en el vivero, la implementación y siembra en campo, así como el monitoreo de las propiedades del ecosistema y de la efectividad de las especies en terrenos degradados.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="2.png" class="img-fluid figure-img" alt="Agenda del simposio"></p>
+<figcaption>Agenda del simposio</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="3.png" class="img-fluid figure-img"></p>
+<figcaption>Agenda del simposio tarde</figcaption>
+</figure>
+</div>
 
 
 </section>
@@ -310,6 +239,13 @@ Mar 4, 2025
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
         var filterRegex = new RegExp("https:\/\/jbenavidest\.github\.io");
