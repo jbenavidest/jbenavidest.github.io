@@ -3,7 +3,7 @@ title: "Science communication"
 format: html
 ---
 
-# Ecological restoration outreach
+# Ecological restoration
 
 One of the earlier approaches to science communication and outreach was co-leading the Student Ecological Restoration Society (Greunal) during 2021 and 2023. Please find the [Instagram posts](https://www.instagram.com/greunal) and workshop books on [ecological restoration in the Andes](/posts/20230614-Restauracion_monitoreo/index.qmd) during my undergrad.
 
